@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @KatherineWasmer
-- 👀 I’m a graduate student interested in scientific computing, machine learning, and working with big data. 
-- 🌱 I’m currently learning about version control, causality in machine learning, and database management systems. 
-- 📫 How to reach me: Feel free to email me at kwasmer@umich.edu 
-- 😄 Pronouns: she/her/hers
+- 🌱 I’m a graduate student interested in scientific computing and machine learning. This semester, I am taking classes in causality and ML, database management systems, and large data computing. 
+- 📫 Feel free to email me at kwasmer@umich.edu 
 - ⚡ Fun fact: When I'm not coding, I'm either playing chess, reading a book, and/or snuggling with my beloved tuxedo cat, Meadow. 
 
 <!---
